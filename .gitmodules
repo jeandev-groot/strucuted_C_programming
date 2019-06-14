@@ -1,0 +1,4 @@
+[submodule "test3/strucuted_C_programming"]
+	path = test3/strucuted_C_programming
+	url = https://github.com/jnduwamu/strucuted_C_programming.git
+	branch = master
